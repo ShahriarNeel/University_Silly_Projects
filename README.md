@@ -192,18 +192,3 @@ UI Render | 60ms ±5
 ## 📞 Support
 
 For assistance, [open an issue](https://github.com/yourusername/banking-system/issues) or join our Discord:
-
-[![Discord Chat](https://img.shields.io/discord/808045925556682782?logo=discord)](https://discord.gg/your-invite-link)
-```
-
-This README provides:
-- Comprehensive installation instructions
-- Code structure documentation
-- Feature development guide
-- Debugging solutions
-- Security implementation examples
-- Performance metrics
-- Contribution workflow
-- Support channels
-
-Would you like me to add any specific technical details or modify existing sections?

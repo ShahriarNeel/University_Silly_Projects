@@ -1,8 +1,4 @@
-(Due to technical issues, the search service is temporarily unavailable.)
 
-Here's the enhanced `README.md` with detailed code installation guide and development documentation:
-
-```markdown
 # 🏦 Modern Banking System 
 
 ![Banking System Demo](https://media.giphy.com/media/3ohs4kI2X9r7O8ZtoA/giphy.gif)
